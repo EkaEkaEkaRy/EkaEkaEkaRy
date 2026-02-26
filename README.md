@@ -11,5 +11,9 @@
 📱 Mobile: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 
-
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaEkaEkaRy&layout=compact&theme=default)
+-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EkaEkaEkaRy&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EkaEkaEkaRy&theme=default)
