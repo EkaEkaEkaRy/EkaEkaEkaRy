@@ -20,7 +20,7 @@ final katya = Developer(
 
 🗄 Databases: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-📱 Mobile: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+📱 Mobile: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 <br/>
 
@@ -33,13 +33,4 @@ final katya = Developer(
 
 
 ***
-<!--
-```dart
-// Мои суперспособности
-final katya = Developer(
-  name: "Катя",
-  role: "Mobile | Fullstack | Embedded",
-  skills: [ "Flutter", "FastAPI", "Node.js", "REST API", "PostgreSQL", "Supabase", "React" ],
-  vibe: "Код + чай = ❤️",
-);```
--->
+
