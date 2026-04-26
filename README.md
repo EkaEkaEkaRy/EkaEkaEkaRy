@@ -24,10 +24,8 @@ final katya = Developer(
 
 <br/>
 
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaEkaEkaRy&layout=compact&theme=default)
--->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaEkaEkaRy&layout=compact&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EkaEkaEkaRy&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EkaEkaEkaRy&theme=default)
 
