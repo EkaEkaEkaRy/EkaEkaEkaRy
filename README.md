@@ -24,7 +24,7 @@ final katya = Developer(
 
 <br/>
 
-<--
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaEkaEkaRy&layout=compact&theme=default)
 -->
 
